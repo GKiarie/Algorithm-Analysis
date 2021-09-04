@@ -83,10 +83,11 @@ class Fraction:
 
 
 
-f1 = Fraction(1,4)
-f2 = Fraction(1,2)
+f1 = Fraction(1,8)
+f2 = Fraction(1,3)
 
 print(f1.get_den())
 print(f1.get_num())
 
 print(f1 == f2)
+
